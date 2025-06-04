@@ -1,4 +1,4 @@
-package patterns;
+package patterns.Structural_Design_Pattern;
 
 import java.util.ArrayList;
 import java.util.List;

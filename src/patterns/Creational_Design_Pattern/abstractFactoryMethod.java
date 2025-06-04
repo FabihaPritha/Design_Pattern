@@ -1,4 +1,4 @@
-package patterns;
+package patterns.Creational_Design_Pattern;
 
 // Interfaces for different types of vehicles
 interface SUV {

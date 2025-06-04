@@ -1,4 +1,4 @@
-package patterns;
+package patterns.Behavioral_Design_Pattern;
 // State interface
 interface TrafficLightState {
     void handle();

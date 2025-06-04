@@ -1,4 +1,4 @@
-package patterns;
+package patterns.Structural_Design_Pattern;
 // Component
 interface Coffee {
     String getDescription();

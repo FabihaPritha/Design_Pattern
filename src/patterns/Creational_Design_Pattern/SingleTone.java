@@ -1,4 +1,4 @@
-package patterns;
+package patterns.Creational_Design_Pattern;
 
 class ConfigurationManager {
     // Private static instance

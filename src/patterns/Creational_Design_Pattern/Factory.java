@@ -1,4 +1,4 @@
-package patterns;
+package patterns.Creational_Design_Pattern;
 // Vehicle interface
 interface Vehicle {
     void drive();

@@ -1,4 +1,4 @@
-package patterns;
+package patterns.Behavioral_Design_Pattern;
 // Handler interface
 abstract class SupportLevel {
     protected SupportLevel next;

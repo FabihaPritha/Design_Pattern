@@ -1,4 +1,4 @@
-package patterns;
+package patterns.Behavioral_Design_Pattern;
 // Template class
 abstract class DataExporter {
     // Template method

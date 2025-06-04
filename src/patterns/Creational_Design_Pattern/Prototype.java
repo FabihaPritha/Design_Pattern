@@ -1,4 +1,4 @@
-package patterns;
+package patterns.Creational_Design_Pattern;
 
 // Create a Shape interface
 interface Shape extends Cloneable {

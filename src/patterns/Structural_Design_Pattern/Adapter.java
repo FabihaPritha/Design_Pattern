@@ -1,4 +1,4 @@
-package patterns;
+package patterns.Structural_Design_Pattern;
 // Existing interface
 interface PayPalPayment {
     void makePayment();
