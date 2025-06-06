@@ -1,3 +1,15 @@
+//Chain of Responsibility
+//Avoid tightly coupled sender-receiver logic by passing the request along a chain until one handles it.
+
+//Use Case:
+//        Event handling system
+//        Logging framework
+//        Authentication layers
+
+//Real Life Example:
+//Think of customer support: First, a chatbot tries to help. If it fails, it passes you to a human agent, then maybe to a manager.
+
+
 package patterns.Behavioral_Design_Pattern;
 // Handler interface
 abstract class SupportLevel {

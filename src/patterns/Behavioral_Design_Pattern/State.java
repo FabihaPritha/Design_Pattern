@@ -1,3 +1,14 @@
+//.........State Pattern.........
+//Allow an object to alter its behavior when its internal state changes.
+//
+//Use Case:
+//Media player (Play → Pause)
+//Traffic lights
+//ATM states
+
+//Analogy:
+//A traffic signal behaves differently based on its current state (Green, Yellow, Red).
+
 package patterns.Behavioral_Design_Pattern;
 // State interface
 interface TrafficLightState {

@@ -1,3 +1,16 @@
+//........Strategy Pattern.........
+//Define a family of algorithms, encapsulate them, and make them interchangeable.
+//
+//Use Case:
+//Payment strategies (PayPal, CreditCard)
+//Sorting algorithms
+//Compression formats
+//
+//Analogy:
+//Google Maps lets you pick fastest route, shortest route, or scenic — strategy changes, result changes.
+
+
+
 package patterns.Behavioral_Design_Pattern;
 
 import java.util.Scanner;

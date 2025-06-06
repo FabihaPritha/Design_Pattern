@@ -1,3 +1,13 @@
+//...Command Pattern.......
+//Encapsulate a request as an object so you can parameterize clients, queue, and log requests.
+
+//Use Case:
+//Undo/redo systems
+//Task queues
+//GUI button actions
+
+//Analogy:
+//Think of a waiter taking your order (command) and passing it to the kitchen.
 package patterns.Behavioral_Design_Pattern;
 // Command interface
 interface Command {

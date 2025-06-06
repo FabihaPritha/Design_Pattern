@@ -1,3 +1,14 @@
+//.........Template Method Pattern.......
+//Define the skeleton of an algorithm in a method, letting subclasses fill in the blanks.
+//
+//Use Case:
+//Game loop templates
+//Report generation
+//Data parsing pipelines
+//
+//Analogy:
+//Making tea or coffee: Boil water → Add ingredient → Stir → Serve. Only "Add ingredient" varies.
+
 package patterns.Behavioral_Design_Pattern;
 // Template class
 abstract class DataExporter {
