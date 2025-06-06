@@ -1,3 +1,7 @@
+//.....Decorator Pattern.........
+//Purpose: Add behavior to an object without modifying its structure.
+
+
 package patterns.Structural_Design_Pattern;
 // Component
 interface Coffee {

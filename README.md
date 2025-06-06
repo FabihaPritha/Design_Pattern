@@ -1,6 +1,6 @@
-# 🎨 Java Design Patterns (Simplified with Code)
+# 🎨 Design Patterns (Simplified with Java Code)
 
-Welcome to the **Java Design Patterns** repository — a complete collection of all major design patterns explained with **simple and clean Java code**.
+Welcome to the **Design Patterns** repository — a complete collection of all major design patterns explained with **simple and clean Java code**.
 
 This repo is perfect for students, developers, and interviewees who want to **understand, revise, or implement** design patterns in real life.
 

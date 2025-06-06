@@ -1,3 +1,10 @@
+//.......Factory Method Pattern.......
+//Purpose: Create objects without exposing class names, using a factory method.
+//Real-life Example:
+//1. a vehicle, don't care if its bike oe car.
+//2. You order a notification, but don't care if it's SMS or Email.
+
+
 package patterns.Creational_Design_Pattern;
 // Vehicle interface
 interface Vehicle {
@@ -23,9 +30,9 @@ class Bike implements Vehicle {
 // Factory class
 class VehicleFactory {
     public static Vehicle getVehicle(String type) {
-        if (type.equals("Car")) {
+        if (type.equalsIgnoreCase("Car")) {
             return new Car();
-        } else if (type.equals("Bike")) {
+        } else if (type.equalsIgnoreCase("Bike")) {
             return new Bike();
         }
         return null;

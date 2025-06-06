@@ -1,3 +1,6 @@
+//.........Singleton Pattern...........
+//Purpose: Ensure only one instance of a class exists
+
 package patterns.Creational_Design_Pattern;
 
 class ConfigurationManager {

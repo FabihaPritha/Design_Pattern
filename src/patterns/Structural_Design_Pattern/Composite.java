@@ -1,3 +1,6 @@
+//....Composite Pattern.......
+//Purpose: Treat a group of objects and single object the same way.
+
 package patterns.Structural_Design_Pattern;
 
 import java.util.ArrayList;

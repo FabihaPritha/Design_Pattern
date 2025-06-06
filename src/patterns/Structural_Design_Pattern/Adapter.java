@@ -1,3 +1,8 @@
+//........Adapter Pattern.........
+//Purpose: Convert one interface into another the client expects.
+//Real-life Example:
+//adding a new payment system without changing the old ones.
+
 package patterns.Structural_Design_Pattern;
 // Existing interface
 interface PayPalPayment {
@@ -28,6 +33,7 @@ class StripeAdapter implements PayPalPayment {
     private StripePayment stripePayment;
 
     public StripeAdapter(StripePayment stripePayment) {
+
         this.stripePayment = stripePayment;
     }
 

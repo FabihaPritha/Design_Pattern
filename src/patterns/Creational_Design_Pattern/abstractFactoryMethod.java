@@ -1,3 +1,8 @@
+//...Abstract Factory Pattern....
+//Purpose: Create families of related objects without specifying their concrete classes.
+//Real-life Example:
+//You want a UI toolkit that can switch between Light Theme and Dark Theme.
+
 package patterns.Creational_Design_Pattern;
 
 // Interfaces for different types of vehicles
