@@ -6,7 +6,7 @@
 //Event listeners
 //Stock price updates
 //
-//Analogy:
+//Real Life Example:
 //You subscribe to a YouTube channel. When a new video drops, you get notified.
 
 package patterns.Behavioral_Design_Pattern;

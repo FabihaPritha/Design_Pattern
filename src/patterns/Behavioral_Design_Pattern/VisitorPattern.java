@@ -1,4 +1,4 @@
-//Visitor Pattern
+//..........Visitor Pattern............
 //Add new operations to objects without changing their class.
 //
 //Use Case:
@@ -6,7 +6,7 @@
 //Object structure traversal
 //Syntax checkers
 //
-//Analogy:
+//Real Life Example:
 //A tax officer (visitor) visits different businesses (elements) and calculates tax differently for each.
 
 package patterns.Behavioral_Design_Pattern;

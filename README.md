@@ -39,8 +39,9 @@ The patterns are categorized as per the **Gang of Four (GoF)** classification:
 
 Each pattern has:
 - ✅ A clear explanation
-- ✅ Simple Java code
+- ✅ Use Case of each pattern
 - ✅ Real-world relatable examples (where applicable)
+- ✅ Simple Java code
 - ✅ Easy to run `.java` files
 
 ## 🚀 How to Use

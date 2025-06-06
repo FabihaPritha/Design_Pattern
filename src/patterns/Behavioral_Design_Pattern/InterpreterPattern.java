@@ -5,7 +5,7 @@
 //Simple languages (e.g. SQL, regex, arithmetic evaluators)
 //Scripting inside apps
 
-//Analogy:
+//Real Life Example:
 //Like a language interpreter translating "2 + 3" into 5.
 
 

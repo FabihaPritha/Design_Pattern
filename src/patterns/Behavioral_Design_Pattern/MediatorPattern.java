@@ -7,7 +7,7 @@
 //GUI components (e.g. textbox, button, etc.)
 //Air Traffic Control systems
 
-//Analogy:
+//Real Life Example:
 //Air Traffic Control (mediator) tells each plane when it’s safe to land or take off.
 
 package patterns.Behavioral_Design_Pattern;

@@ -6,7 +6,7 @@
 //Task queues
 //GUI button actions
 
-//Analogy:
+//Real Life Example:
 //Think of a waiter taking your order (command) and passing it to the kitchen.
 package patterns.Behavioral_Design_Pattern;
 // Command interface

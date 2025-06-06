@@ -6,7 +6,7 @@
 //Report generation
 //Data parsing pipelines
 //
-//Analogy:
+//Real Life Example:
 //Making tea or coffee: Boil water → Add ingredient → Stir → Serve. Only "Add ingredient" varies.
 
 package patterns.Behavioral_Design_Pattern;

@@ -6,7 +6,7 @@
 //Traffic lights
 //ATM states
 
-//Analogy:
+//Real Life Example:
 //A traffic signal behaves differently based on its current state (Green, Yellow, Red).
 
 package patterns.Behavioral_Design_Pattern;

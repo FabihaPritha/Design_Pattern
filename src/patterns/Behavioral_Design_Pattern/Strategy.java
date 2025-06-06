@@ -6,7 +6,7 @@
 //Sorting algorithms
 //Compression formats
 //
-//Analogy:
+//Real Life Example:
 //Google Maps lets you pick fastest route, shortest route, or scenic — strategy changes, result changes.
 
 

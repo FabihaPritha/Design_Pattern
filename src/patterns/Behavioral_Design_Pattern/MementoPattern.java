@@ -1,11 +1,11 @@
-//Memento Pattern
+//........Memento Pattern............
 //Capture an object’s internal state without exposing it and restore later.
 //
 //Use Case:
 //Undo/Redo
 //Save game state
 
-//Analogy:
+//Real Life Example:
 //Ctrl+Z in Word. Restore the document's previous state.
 
 package patterns.Behavioral_Design_Pattern;
