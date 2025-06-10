@@ -9,35 +9,35 @@ This repo is perfect for students, developers, and interviewees who want to **un
 The patterns are categorized as per the **Gang of Four (GoF)** classification:
 
 ### 🧱 Creational Patterns
-- 🔧 Singleton
-- 🏗️ Builder
-- 🧙 Factory Method
-- 🏭 Abstract Factory
-- 🌀 Prototype
+1. Singleton
+2. Builder
+3. Factory Method
+4. Abstract Factory
+5. Prototype
 
 ### 🔄 Structural Patterns
-- 🧱 Adapter
-- 🏛️ Bridge
-- 🗃️ Composite
-- 🎁 Decorator
-- 📦 Facade
-- 🔗 Flyweight
-- 🧲 Proxy
+6. Adapter
+7. Bridge
+8. Composite
+9. Decorator
+10. Facade
+11. Flyweight
+12. Proxy
 
 ### 🧠 Behavioral Patterns
-- 👂 Observer
-- 🧞 Command
-- 📜 Chain of Responsibility
-- ⏪ Memento
-- 🤹 Iterator
-- 🔄 State
-- 🧩 Strategy
-- 📖 Template Method
-- 📡 Mediator
-- 👮 Interpreter
-- 🕵️ Visitor
+13. Observer
+14. Command
+15. Chain of Responsibility
+16. Memento
+17. Iterator
+18. State
+19. Strategy
+20. Template Method
+21. Mediator
+22. Interpreter
+23. Visitor
 
-Each pattern has:
+## Each pattern has:
 - ✅ A clear explanation
 - ✅ Use Case of each pattern
 - ✅ Real-world relatable examples (where applicable)
@@ -61,4 +61,4 @@ To help developers learn and revise design patterns quickly, without digging thr
 ## 🤝 Contributions
 PRs (Pull Requests) are welcome! Feel free to fork and enhance the code, fix issues, or add more real-world examples.
 
-⭐ If you found this helpful, don't forget to star the repo and share it with your friends!
+⭐ If you found this helpful, don't forget to **star** the repo and share it with your friends!
