@@ -1,6 +1,11 @@
 //.....Decorator Pattern.........
 //Purpose: Add behavior to an object without modifying its structure.
 
+//Use Case:
+// When subclassing isn’t flexible enough for adding responsibilities.
+
+//Analogy: Putting extra toppings (cheese, olives) on a pizza
+
 
 package patterns.Structural_Design_Pattern;
 // Component

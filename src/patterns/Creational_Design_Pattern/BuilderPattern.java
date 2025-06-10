@@ -1,6 +1,9 @@
 //.....BuilderPattern Pattern.....
 //Purpose: Build complex objects step-by-step.
 //
+//Use Case:
+// When constructing an object requires many steps or options.
+
 //Real-life Example:
 //Making a burger: choose bun, add sauce, add meat, etc.
 

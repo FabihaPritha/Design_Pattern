@@ -1,6 +1,11 @@
 //.........Singleton Pattern...........
 //Purpose: Ensure only one instance of a class exists
 
+//Use Case:
+// For things like configuration, DB connection, logging.
+
+// Analogy:
+// There’s only one president of a country 🇺🇳
 package patterns.Creational_Design_Pattern;
 
 class ConfigurationManager {

@@ -1,5 +1,9 @@
 //...Abstract Factory Pattern....
 //Purpose: Create families of related objects without specifying their concrete classes.
+
+// Use Case:
+// When you need multiple factories for different product families.
+
 //Real-life Example:
 //You want a UI toolkit that can switch between Light Theme and Dark Theme.
 

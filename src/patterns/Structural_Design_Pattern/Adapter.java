@@ -1,6 +1,10 @@
 //........Adapter Pattern.........
 //Purpose: Convert one interface into another the client expects.
+
+//Use Case:
+// When two incompatible interfaces need to work together.
 //Real-life Example:
+
 //adding a new payment system without changing the old ones.
 
 package patterns.Structural_Design_Pattern;

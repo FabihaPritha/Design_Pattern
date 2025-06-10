@@ -1,6 +1,9 @@
 //...Proxy Pattern...
 //Purpose: Provide a placeholder to control access to the original object.
 
+// Use Case:
+// For lazy loading, access control, logging, etc.
+
 //Real-Life Analogy:
 //ProxyInternet = Security Guard
 //You (user) want to enter a building (site).

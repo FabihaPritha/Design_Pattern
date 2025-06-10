@@ -1,6 +1,12 @@
 //.....Prototype Pattern........
 //Purpose: Create objects by cloning an existing object (useful when object creation is expensive).
 
+//Use Case:
+// When object creation is expensive or complex.
+
+//Analogy:
+//Prototyping the shape for drawing the circle and rectangle.
+
 package patterns.Creational_Design_Pattern;
 
 // Create a Shape interface

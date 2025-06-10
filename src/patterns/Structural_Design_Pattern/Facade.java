@@ -1,6 +1,11 @@
 //..........Facade Pattern.........
 //Purpose: Simplify interaction with a complex system by providing a single interface.
 
+//Use Case:
+// When you want to hide system complexity from clients.
+//
+//Analogy: A restaurant waiter takes your order and handles the kitchen behind the scenes.
+
 
 package patterns.Structural_Design_Pattern;
 // Subsystem classes

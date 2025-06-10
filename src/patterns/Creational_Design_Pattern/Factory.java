@@ -1,7 +1,11 @@
 //.......Factory Method Pattern.......
 //Purpose: Create objects without exposing class names, using a factory method.
+
+// Use Case:
+// When you need to delegate object creation logic to subclasses.
+
 //Real-life Example:
-//1. a vehicle, don't care if its bike oe car.
+//1. a vehicle, don't care if its bike or car.
 //2. You order a notification, but don't care if it's SMS or Email.
 
 

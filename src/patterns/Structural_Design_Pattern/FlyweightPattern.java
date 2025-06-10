@@ -1,5 +1,9 @@
 //......Flyweight Pattern.......
 //Purpose: Use shared objects to save memory when many similar objects are used.
+
+// Use Case:
+// When many objects share the same state (e.g., game characters, text editors).
+
 // Real-World Analogy:
 //Instead of giving 1000 students 1000 books with the same content, you give them one
 // shared book and let them sit at different desks (x, y).

@@ -1,6 +1,11 @@
 //....Composite Pattern.......
 //Purpose: Treat a group of objects and single object the same way.
 
+//Use Case:
+// When you need to treat individual and composite objects uniformly.
+//
+//Analogy: A folder contains files or other folders.
+
 package patterns.Structural_Design_Pattern;
 
 import java.util.ArrayList;

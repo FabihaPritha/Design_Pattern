@@ -1,5 +1,9 @@
 //.....Bridge Pattern.....
 //Purpose: Separate abstraction from implementation so both can change independently.
+
+//Use Case:
+// When both abstraction and implementation can vary independently.
+
 //Goal: To separate the high-level abstraction (like a remote control) from the low-level
 // implementation (like a TV or Radio), so you can change either side without affecting the other.
 //You can add new devices or new remotes without touching existing code.
